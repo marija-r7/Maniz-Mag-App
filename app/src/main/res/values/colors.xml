@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#D7FFE7</color>
+    <color name="inputBox">#E1E1E1</color>
+    <color name="submit_btn">#6CA49D</color>
+    <color name="logo_icons">#808080</color>
+    <color name="accent_btn">#D7FFE7</color>
+    <color name="orange">#FFB3A3</color>
+</resources>

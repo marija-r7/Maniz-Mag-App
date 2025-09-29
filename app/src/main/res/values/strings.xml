@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ManizMagApp</string>
+    <string name="create_new_account"><u>Kreiraj novi nalog</u></string>
+    <string-array name="spending_kategorije">
+        <item>Racuni</item>
+        <item>Namirnice</item>
+        <item>Izlasci</item>
+        <item>Hrana</item>
+        <item>Ostalo</item>
+    </string-array>
+    <string-array name="izvor_kategorije">
+        <item>Plata</item>
+        <item>Ustedjevina</item>
+        <item>Kredit</item>
+        <item>Pozajmica</item>
+        <item>Privatan prihod</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

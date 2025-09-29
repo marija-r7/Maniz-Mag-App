@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871276581795",
+    "project_id": "manizmagapp",
+    "storage_bucket": "manizmagapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871276581795:android:793b543c6ce3bae9114016",
+        "android_client_info": {
+          "package_name": "com.example.manizmagapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcfuSNVnOpEG2XIEaJ3eLjoORuzXLIhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

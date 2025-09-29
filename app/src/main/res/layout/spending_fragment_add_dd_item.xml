@@ -1,0 +1,9 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spending_dd_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="14dp"
+    android:text="Test"
+    android:textSize="16sp"
+    android:textStyle="bold"
+    android:textColor="#000000"/>

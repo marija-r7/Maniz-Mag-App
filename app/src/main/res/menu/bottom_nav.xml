@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Pocetna"
+        android:id="@+id/pocetna"
+        android:icon="@drawable/house"/>
+    <item android:title="Potrosnja"
+        android:id="@+id/potrosnja"
+        android:icon="@drawable/piechart"/>
+    <item android:title="Prihodi"
+        android:id="@+id/prihodi"
+        android:icon="@drawable/moneycome"/>
+    <item android:title="Moj Nalog"
+        android:id="@+id/mojnalog"
+        android:icon="@drawable/user_icon"/>
+</menu>
